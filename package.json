@@ -1,0 +1,30 @@
+{
+  "name": "article-blog-protal",
+  "version": "1.0.0",
+  "description": "文章博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SawWu/article-blog-protal.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SawWu/article-blog-protal/issues"
+  },
+  "homepage": "https://github.com/SawWu/article-blog-protal#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
