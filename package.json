@@ -23,9 +23,12 @@
   "homepage": "https://github.com/SawWu/article-blog-protal#readme",
   "dependencies": {
     "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "koa-views": "^6.1.4",
+    "mongoose": "^5.3.3",
     "pug": "^2.0.3"
   },
   "devDependencies": {
